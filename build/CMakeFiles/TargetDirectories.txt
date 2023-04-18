@@ -1,0 +1,17 @@
+C:/Users/drfam/Desktop/t6/anim/FireSimulation/build/CMakeFiles/FireSimulation.dir
+C:/Users/drfam/Desktop/t6/anim/FireSimulation/build/CMakeFiles/PACKAGE.dir
+C:/Users/drfam/Desktop/t6/anim/FireSimulation/build/CMakeFiles/INSTALL.dir
+C:/Users/drfam/Desktop/t6/anim/FireSimulation/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/drfam/Desktop/t6/anim/FireSimulation/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/drfam/Desktop/t6/anim/thirdparty/freetype-2.12.1/debug/CMakeFiles/freetype.dir
+C:/Users/drfam/Desktop/t6/anim/thirdparty/freetype-2.12.1/debug/CMakeFiles/PACKAGE.dir
+C:/Users/drfam/Desktop/t6/anim/thirdparty/freetype-2.12.1/debug/CMakeFiles/INSTALL.dir
+C:/Users/drfam/Desktop/t6/anim/thirdparty/freetype-2.12.1/debug/CMakeFiles/ALL_BUILD.dir
+C:/Users/drfam/Desktop/t6/anim/thirdparty/glfw-3.3.8/debug/CMakeFiles/uninstall.dir
+C:/Users/drfam/Desktop/t6/anim/thirdparty/glfw-3.3.8/debug/CMakeFiles/PACKAGE.dir
+C:/Users/drfam/Desktop/t6/anim/thirdparty/glfw-3.3.8/debug/CMakeFiles/INSTALL.dir
+C:/Users/drfam/Desktop/t6/anim/thirdparty/glfw-3.3.8/debug/CMakeFiles/ALL_BUILD.dir
+C:/Users/drfam/Desktop/t6/anim/thirdparty/glfw-3.3.8/debug/src/CMakeFiles/update_mappings.dir
+C:/Users/drfam/Desktop/t6/anim/thirdparty/glfw-3.3.8/debug/src/CMakeFiles/glfw.dir
+C:/Users/drfam/Desktop/t6/anim/thirdparty/glfw-3.3.8/debug/src/CMakeFiles/PACKAGE.dir
+C:/Users/drfam/Desktop/t6/anim/thirdparty/glfw-3.3.8/debug/src/CMakeFiles/INSTALL.dir

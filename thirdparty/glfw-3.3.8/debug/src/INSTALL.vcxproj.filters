@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\drfam\Desktop\t6\anim\FireSimulation\build\CMakeFiles\59efe38be1b61171c7e145ed1a9558b8\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{988A3806-F135-322A-B7B7-80F85AE3BDE3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

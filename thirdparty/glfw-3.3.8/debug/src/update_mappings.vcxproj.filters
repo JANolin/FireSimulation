@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\drfam\Desktop\t6\anim\FireSimulation\build\CMakeFiles\59efe38be1b61171c7e145ed1a9558b8\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\drfam\Desktop\t6\anim\thirdparty\glfw-3.3.8\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\drfam\Desktop\t6\anim\thirdparty\glfw-3.3.8\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Users\drfam\Desktop\t6\anim\thirdparty\glfw-3.3.8\CMake\GenerateMappings.cmake" />
+    <None Include="C:\Users\drfam\Desktop\t6\anim\thirdparty\glfw-3.3.8\debug\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{988A3806-F135-322A-B7B7-80F85AE3BDE3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{94BA941D-AF4D-3A0A-BF1B-0F529617BD21}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
